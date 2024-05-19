@@ -1,0 +1,3 @@
+[submodule "app_registration"]
+	path = app_registration
+	url = https://github.com/TranDinhChuong123/app_registration.git
